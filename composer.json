@@ -31,7 +31,7 @@
 	],
 	"autoload":          {
         "psr-4":    {
-            "Bridge\\Foundation": "src/"
+            "Bridge\\Foundation\\": "src/"
         }
     },
     "autoload-dev":      {
