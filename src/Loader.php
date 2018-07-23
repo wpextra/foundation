@@ -8,6 +8,8 @@ final class Loader {
 
 	protected $includes = [
 		'Template',
+		'Foundation',
+		'Registry',
 		'Bridge'
 	];
 	protected function constants() {
