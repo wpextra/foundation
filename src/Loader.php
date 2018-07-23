@@ -8,7 +8,7 @@ final class Loader {
 
 	protected $includes = [
 		'Template',
-		'Foundation',
+		'Listener',
 		'Registry',
 		'Bridge'
 	];
